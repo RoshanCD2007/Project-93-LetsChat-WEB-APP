@@ -1,0 +1,14 @@
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+.header
+{
+	color:orangered;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+body{
+    background-image: url("world.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: aqua;
+}
